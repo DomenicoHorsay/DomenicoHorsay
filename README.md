@@ -43,8 +43,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=DomenicoHorsay&show_icons=true&theme=onedark" alt="maykbrito's stats"/>
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomenicoHorsay&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=DomenicoHorsay&show_icons=true&theme=onedark" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomenicoHorsay&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
 </p>
 
 ###
@@ -52,11 +52,4 @@
 <h2 align="left">📫 Como me encontrar</h2>
 
 ###
-
-<p align="left">LinkedIn: linkedin.com/in/domenicohorsay</p>
-
-###
-
-<p align="left">Email: domenicoerick@hotmail.com</p>
-
-###
+<p align="left">📩: domenicoerick@hotmail.com</p>
