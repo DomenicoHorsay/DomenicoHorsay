@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Tecnologias e Áreas de Interesse </h3>  
 <div align="center">
 <br>
-  <img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,py,django,kotlin">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,django,kotlin">
 </div>
 <br>
 <div align="center">
