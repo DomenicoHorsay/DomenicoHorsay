@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, me chamo Domenico!</h1>
 
-<h2 align="center"> Sou um Desenvolvedor Fullstack 👋</h2>
-
 <h3 align="center">🚀 Tecnologias e Áreas de Interesse </h3>  
 <div align="center">
 <br>
